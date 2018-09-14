@@ -1,4 +1,4 @@
 var playlist = {artistnames: "songtitles"}
-function updatePlaylist(object, string,title){
+function updatePlaylist(playlist, artistName, songTitle){
   
 }
